@@ -23,3 +23,10 @@
 <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-0F1E25?style=flat-square&logo=netlify&logoColor=white" /> 
 
 </p>
+
+📊 Most Used Language 
+
+
+<p>
+<img alt="Used Language " src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}" />
+</p>
