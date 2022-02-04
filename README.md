@@ -23,8 +23,8 @@
 <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-0F1E25?style=flat-square&logo=netlify&logoColor=white" /> 
 
 </p>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ChristyAravind&count_private=true&show_icons=true&include_all_commits=true)
 
- 📊 Most Used Language 
-<p>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=ChristyAravind&theme=dark&hide_border=true&langs_count=3)
-</p> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristyAravind&hide=TeX&layout=compact)
+
