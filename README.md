@@ -28,5 +28,5 @@
 
 
 <p>
-<img alt="Used Language " src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}" />
+<img alt="Used Language " src="https://github-readme-stats.vercel.app/api/top-langs/?username={ChristyAravind}" />
 </p>
