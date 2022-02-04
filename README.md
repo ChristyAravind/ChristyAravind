@@ -1,5 +1,7 @@
 ### Hi there this is Aravind 👋
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 -🌱 I’m currently learning MERN Stack Developement.
 
 -👯 I’m looking job as web developer.
