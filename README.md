@@ -24,9 +24,7 @@
 
 </p>
 
-<!-- 📊 Most Used Language 
-
-
+ 📊 Most Used Language 
 <p>
-<img alt="Used Language " src="https://github-readme-stats.vercel.app/api/top-langs/?username={ChristyAravind}" />
-</p> -->
+(https://github-readme-stats.vercel.app/api/top-langs/?username=ChristyAravind&theme=dark&hide_border=true&langs_count=3)
+</p> 
