@@ -23,6 +23,7 @@
 <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-0F1E25?style=flat-square&logo=netlify&logoColor=white" /> 
 
 </p>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ChristyAravind&count_private=true&show_icons=true&include_all_commits=true)
 
 
